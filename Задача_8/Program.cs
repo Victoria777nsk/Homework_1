@@ -18,5 +18,5 @@ if (N > 1)
 }
 else
 {
-    Console.WriteLine("Ошибка! Число должно быть > 1");
+    Console.WriteLine("Ошибка! Число должно быть > 1 !");
 }
